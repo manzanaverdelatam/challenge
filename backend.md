@@ -72,6 +72,6 @@ catalog shape example:
 
 1. Use Rest to build the API.
 1. Use Laravel as backend.
-1. Use mysql database as data store.
+1. Use Mysql database as data store.
 1. Use any cloud provider to deploy, make sure we can play with the API.
 1. Setup a CI server to run your tests, we must be able to check all tests passing.
